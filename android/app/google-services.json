@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "988175397402",
+    "project_id": "chatty-500ef",
+    "storage_bucket": "chatty-500ef.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988175397402:android:5a51ee0d03633b8130d7a3",
+        "android_client_info": {
+          "package_name": "com.sawy.chatty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988175397402-b0guf6rfrjqthkrhabjrq7ugtqckufln.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sawy.chatty",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "988175397402-bhv3p2ioik1hp5q8i3ssqb5kummdr7ch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzOgOzWtcbeJ6VN4hks4BDFtwalgLczzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988175397402-bhv3p2ioik1hp5q8i3ssqb5kummdr7ch.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "988175397402-n2piqb91lileec8ldu3crn524agjmb80.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sawy.chatty"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
